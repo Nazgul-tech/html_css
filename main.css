@@ -1,0 +1,25 @@
+body{
+    font-size: 150%;
+    background:gray;
+    margin: 0;
+    bottom: 0;
+}
+.div_1{
+    background:2px turquoise;
+    width: auto;
+    height: 170px;
+}
+.div_2{
+    background: url(images/images.png);
+    border: 1px solid #000;
+    box-shadow: 5px 4px 10px 15px #000;
+    border-radius: 250px;
+    height: 150px;
+    width: 160px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
